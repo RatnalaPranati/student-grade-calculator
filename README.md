@@ -6,8 +6,8 @@ public class percentage {
 
 	public static void main(String[] args) {
 	int java=100;
-	int dsa=0;
-	int c=0;
+	int dsa=90;
+	int c=80;
 	int sum=java+dsa+c;
 	float avgper=(sum/3);
 	String grade;
